@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Cancel</string>
-    <string name="ok">OK</string>
-    <string name="are_you_sure_to_uninstall_apps">Are you sure to uninstall %1$s apps?</string>
-    <string name="copy_package_name_to_clipboard">Copy package name to clipboard</string>
-    <string name="no_description_available">No description available</string>
-    <string name="uninstall">Uninstall</string>
-    <string name="reinstall">ReInstall</string>
-    <string name="please_start_shizuku">Please start Shizuku.</string>
-    <string name="please_install_shizuku_and_authorise_canta">Please install Shizuku and authorise Canta.</string>
-    <string name="please_allow_shizuku_access_for_canta">Please allow Shizuku access for Canta.</string>
-    <string name="only_system">Only system</string>
-    <string name="no_apps_found">No apps found</string>
-    <string name="loading_apps">Loading apps</string>
-    <string name="badge_info">Badge info</string>
-    <string name="got_it">Got it</string>
-    <string name="loading_badges">Loading badges ...</string>
-    <string name="logs">Logs</string>
-    <string name="back">Back</string>
-    <string name="copy_logs">Copy logs</string>
-    <string name="log_copied">Log copied to clipboard</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+    <string name="are_you_sure_to_uninstall_apps">你确定卸载这 %1$s 个应用吗？</string>
+    <string name="copy_package_name_to_clipboard">复制包名到剪贴板</string>
+    <string name="no_description_available">无简介可用</string>
+    <string name="uninstall">卸载</string>
+    <string name="reinstall">恢复</string>
+    <string name="please_start_shizuku">请启用 Shizuku。</string>
+    <string name="please_install_shizuku_and_authorise_canta">请安装 Shizuku 并为 Canta 授权。</string>
+    <string name="please_allow_shizuku_access_for_canta">请允许 Canta 访问 Shizuku。</string>
+    <string name="only_system">仅展示系统应用</string>
+    <string name="no_apps_found">未找到应用</string>
+    <string name="loading_apps">加载应用列表中</string>
+    <string name="badge_info">标志信息</string>
+    <string name="got_it">知道了</string>
+    <string name="loading_badges">加载标志中….</string>
+    <string name="logs">日志</string>
+    <string name="back">返回</string>
+    <string name="copy_logs">复制日志</string>
+    <string name="log_copied">日志已复制到剪贴板</string>
     <plurals name="clear_selected_apps">
-        <item quantity="other">Clear %d selected</item>
+        <item quantity="other">清除已选的 %d 项</item>
     </plurals>
-    <string name="copy">Copy</string>
-    <string name="app_settings">App info</string>
-    <string name="close">Close</string>
+    <string name="copy">复制</string>
+    <string name="app_settings">应用详情</string>
+    <string name="close">关闭</string>
 </resources>
